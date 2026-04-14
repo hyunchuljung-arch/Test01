@@ -9,3 +9,7 @@ This is a freshly initialized repository with no source files yet. When a projec
 - Build, lint, and test commands (including how to run a single test)
 - High-level architecture overview
 - Any non-obvious conventions or constraints
+
+## Memory
+
+User preferences and context are stored in [memory.md](./memory.md).
